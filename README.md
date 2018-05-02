@@ -4,7 +4,7 @@ LessPass desktop application build with electron
 
 ## Dependencies
 
- * npm ([Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows), [MacOS](http://blog.teamtreehouse.com/install-node-js-npm-mac), [Linux](http://blog.teamtreehouse.com/install-node-js-npm-linux))
+ * [Node.js/npm](https://nodejs.org/en/download/package-manager/)
 
 ```
 npm install
